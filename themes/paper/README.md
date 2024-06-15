@@ -36,7 +36,6 @@ Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
 Available options to `config.toml` or `hugo.toml`:
 
 ```toml
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 [params]
   # color style
@@ -68,16 +67,6 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   favicon = "favicon.ico"                   # customize the default favicon
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
 
-  # giscus
-[params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-  mapping = 'pathname'
-  theme = 'light'
-  lang = 'zh-CN'
-```
 
 Available options to front matter:
 
