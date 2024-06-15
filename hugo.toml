@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Jimmys Blog'
 theme = "paper"
 
-
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
@@ -15,7 +14,6 @@ theme = "paper"
   avatar = 'https://2.gravatar.com/avatar/698dfb3f7603d18da36c859df96e935158940511e477cfcad4dad847ddf27a50?size=256'                 # gravatar email or image url
   name = 'Jimmy Young'
   bio = 'Service Desk Analyst'
-
 
   # misc
   disableHLJS = true                        # disable highlight.js
